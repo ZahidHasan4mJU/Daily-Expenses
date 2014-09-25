@@ -1,0 +1,10 @@
+c:\users\zahid_ju\documents\visual studio 2012\Projects\DailyExpenses\DailyExpenses\bin\Debug\DailyExpenses.exe.config
+c:\users\zahid_ju\documents\visual studio 2012\Projects\DailyExpenses\DailyExpenses\bin\Debug\DailyExpenses.exe
+c:\users\zahid_ju\documents\visual studio 2012\Projects\DailyExpenses\DailyExpenses\bin\Debug\DailyExpenses.pdb
+c:\users\zahid_ju\documents\visual studio 2012\Projects\DailyExpenses\DailyExpenses\bin\Debug\CSVLib.dll
+c:\users\zahid_ju\documents\visual studio 2012\Projects\DailyExpenses\DailyExpenses\obj\Debug\DailyExpenses.csprojResolveAssemblyReference.cache
+c:\users\zahid_ju\documents\visual studio 2012\Projects\DailyExpenses\DailyExpenses\obj\Debug\DailyExpenses.ExpensesUIForm.resources
+c:\users\zahid_ju\documents\visual studio 2012\Projects\DailyExpenses\DailyExpenses\obj\Debug\DailyExpenses.Properties.Resources.resources
+c:\users\zahid_ju\documents\visual studio 2012\Projects\DailyExpenses\DailyExpenses\obj\Debug\DailyExpenses.csproj.GenerateResource.Cache
+c:\users\zahid_ju\documents\visual studio 2012\Projects\DailyExpenses\DailyExpenses\obj\Debug\DailyExpenses.exe
+c:\users\zahid_ju\documents\visual studio 2012\Projects\DailyExpenses\DailyExpenses\obj\Debug\DailyExpenses.pdb
